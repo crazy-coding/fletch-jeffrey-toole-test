@@ -1,1 +1,1 @@
-"Mon Jan 02 2023 11:57:08 GMT-0500 (GMT-05:00)" 
+npx fake-git-history --commitsPerDay "0,4" --startDate "2022/11/02" --endDate "2023/01/02"
